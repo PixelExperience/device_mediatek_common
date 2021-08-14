@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cdc656bb_b407fbb0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000500
+      },
+      "writtenOn": "2021-08-14T20:34:18Z",
+      "side": 1,
+      "message": "You shouldn\u0027t enforce all SoC to use Microtrust TEE by default since MediaTek doesn\u0027t only have that TEE (TrustKernel, Trustonic, Trusty), guarding it inside a ifdef variable would be better",
+      "revId": "2216aa2425f2c710cb5e41ae6bfd03063d6589d6",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
